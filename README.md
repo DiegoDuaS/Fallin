@@ -53,4 +53,8 @@ Assets/
       └── MainGame.unity     # Principal game scene
 ```
 ## Demo
-You can watch a video of the game here: []link 
+You can watch a video of the game here:
+
+[![Demo del Juego](https://img.youtube.com/vi/cpqur9hwO9s/0.jpg)](https://youtu.be/cpqur9hwO9s)
+
+[Ver video en YouTube](https://youtu.be/cpqur9hwO9s)
